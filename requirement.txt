@@ -1,0 +1,6 @@
+GPUtil==1.4.0
+numpy==1.18.0
+pyzmq==18.1.1
+six==1.13.0
+termcolor==1.1.0
+tensorflow-gpu==1.13.1
